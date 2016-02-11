@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html">
+	<title>Lixin Jin</title>
+	<!--<link href="css/lixin_jin_bad.css" rel="stylesheet" type="text/css">-->
+</head>
+
+<body>
+	<div id = "topsection">
+		<div id = "greeting">Hello! My name is Lixin Jin</div>
+		<img src="images/selfphoto.JPG" alt="Lixin Jin" width="10%", height="10%">
+	</div>
+		
+	<div id = "intro">
+		<div class="subtitle">About Me</div>
+		<p>I am an international undergraduate student in <i>University of Alberta</i>, 
+		major in <i>Computing Science</i>. I ma currently expected to continue this programe
+		until April 2016. My main area of interest are software engineering, web 
+		development and game design. Also, I have strong problem solving and quantitaive
+		analytical skills since I have taken some mathematics and statics course as well. 
+		Besides, I am able to speak in 3 different languages which are Mandarin, English 
+		and Korean. </p>
+	</div>
+	
+	<div id= "education">
+		<div class="subtitle">Education Background</div>
+		<ul class="reglist">
+			<li> Sept. 2008 - June 2011
+				<ul class="school">
+					<li>Dalian Maple Leaf International School</li>				
+					<li>Dalian, Liaoning, China</li>
+					<li>Engineering</li>
+				</ul>
+			</li>		
+		
+			<li>Sept. 2011 - April 2016
+				<ul class="school">
+					<li><b>University of Alberta</b></li>
+					<li>Edmonton, AB, Canada</li>
+					<li>Bachlor of Computing Science Specialization Program</li>				
+				</ul>
+			</li>
+		</ul>
+	</div>
+	
+	<div id="skills">
+		<div class="subtitile">Technical Skills</div>
+		<ul class="reglist">
+			<li><b>Programming Languages</b>: Java, Python, C, Javascript</li>		
+		</ul>
+			
+	</div>
+</body>
