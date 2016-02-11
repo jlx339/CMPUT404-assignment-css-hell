@@ -1,0 +1,91 @@
+
+body {
+	background-image: url(http://img.sc.chinaz.com/upload/2014/07/03/2014070313455083.jpg);
+	background-size: 100%;
+	background-repeat: repeat;
+	margin:10%;
+	text-align: justify;
+}
+
+pre {
+	font-style: italic;	
+	font-family: monospace;
+	font-size: 80%;
+	margin-left: 10%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	text-align: center;
+	font-weight: bolder;
+	margin-left: 10%;
+	margin-right: 10%;
+	clear: both;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+p {
+	font-weight: lighter;
+	font-family: "Times New Roman", georgia, serif;
+	font-size: 100%;	
+	color:#300000;
+}
+
+p.citation {text-align: right;}
+
+p.ph3{
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+div.titlepage{
+	text-align: center;
+}
+
+a {
+	color: #580000;
+	font-style: italic;
+}
+
+i {
+	font-style: italic;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	margin:auto;
+	border-style: double;
+	border-width: 2px;
+}
+
+.figcenter {
+	margin: auto;
+	text-align: center;
+}
+.figleft {
+    float: left;
+    clear: left;
+	 margin: 0;
+	 margin-right: 0.5em;
+    padding: 0;
+    text-align: center;
+}
+.pagenum {
+	position: absolute;
+	left: 90%;
+	text-align: right;
+}
+
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.caption {
+	font-weight: bold;
+}
