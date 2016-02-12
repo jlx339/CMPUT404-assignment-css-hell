@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html">
+	<title>Lixin Jin</title>
+	<!--<link href="css/lixin_jin_bad.css" rel="stylesheet" type="text/css">-->
+</head>
+
+<body>
+	<div id = "topsection">
+		<div id = "greeting">Hello! My name is Lixin Jin</div>
+		<img src="images/selfphoto.JPG" alt="Lixin Jin" width="10%", height="10%">
+	</div>
+		
+	<div id = "intro">
+		<div class="subtitle">About Me</div>
+		<p>I am an international undergraduate student in <i>University of Alberta</i>, 
+		major in <i>Computing Science</i>. I am currently expected to continue this program
+		until April 2016. My main area of interest are software engineering, web 
+		development and game design. Also, I have strong problem solving and quantitative
+		analytic skills since I have taken some mathematics and statics course as well. 
+		Besides, I am able to speak in 3 different languages which are Mandarin, English 
+		and Korean. </p>
+	</div>
+	
+	<div id = "why">
+		<div class="subtitle">Why Me</div>
+		<p>I have a wide range a skills to offer to potential employers. First of all, 
+		I am a faster learner. I have only touched the Computing Science field for 5 years
+		and it terns out I am able to learn skills in a very short time. In my opinion, 
+		it is a very important skill to software industry. Secondly, I have worked with
+		people from various background for a long time and I have also worked in a foreign 
+		software company as software developer too. Therefore, I am able to work well as a 
+		team and know how in what way I can contribute the most in a team. Last but not least,
+		I am trilingual person, I am able to communicate with people from most of Asian countries
+		which is very important to an international industrial company. </p>
+	</div>	
+	
+	<div id= "education">
+		<div class="subtitle">Education Background</div>
+		<ul class="reglist">
+			<li>September 2011 - April 2016
+				<ul>
+					<li><b>University of Alberta</b></li>
+					<li>Edmonton, AB, Canada</li>
+					<li>Bachelor of Computing Science Specialization Program</li>				
+				</ul>
+			</li>
+			
+			<li> September 2008 - June 2011
+				<ul>
+					<li><b>Dalian Maple Leaf International School</b></li>				
+					<li>Dalian, Liaoning, China</li>
+					<li>Engineering</li>
+				</ul>
+			</li>		
+		</ul>
+	</div>
+	
+	<div id="skills">
+		<div class="subtitile">Technical Skills</div>
+		<ul class="reglist">
+			<li><b>Programming Languages</b>: Java, Python, C, JavaScript</li>
+			<li><b>Web Development</b>: Tomcat, JSP, HTML, AJAX, PHP, CSS, Moodle, JQuery</li>
+			<li><b>Network Knowledge</b>: HTTP, TCP, IPv4, IPv6</li>
+			<li><b>Database Management System</b>s: SQL, Mysql</li>
+			<li><b>Image Processing</b>: Photoshop, 3ds Max, Unity 3D</li>
+			<li><b>Mobile Application Development</b>: Android Studio</li>
+			<li><b>Platforms</b>: Windows, Linux</li>
+			<li><b>Other Fields</b>: Microsoft Office, Sony Vegas Video Editor, Aurora Game Toolset</li>
+		</ul>
+	</div>
+	
+	<div id="work">
+		<div class="subtitle">Work Experience & Workshop</div>
+		<ul class="reglist">
+			<li>June 2015 - August 2015
+				<ul>
+					<li><b>Shanghai Taixiang Software and Technology Co., Ltd (Hyundai Elevator)</b></li>
+               <li>Software Engineer Intern / Unity3D Developer</li>
+					<li>Has been responsible for the design, implementation and testing a 3D elevator model 
+					viewer program for Enterprise Resource Planning System (ERP) which has been used by 
+					Hyundai Elevator. </li>
+				</ul>
+			</li>
+			
+			<li>February 19, 2016 - February 21, 2016
+				<ul>
+					<li><b>Hacking-Health Hackathon</b></li>
+					<li>Hacking Health aims to transform healthcare by connecting healthcare professionals with 
+					designers, developers, innovators and entrepreneurs to build realistic, human-centric solutions 
+					to front-line healthcare problems. We believe that innovation is fueled by diverse minds and 
+					perspectives</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	
+	<div id="sidebar">
+		<div class="subtitle">Contact Information</div>
+		<p class="small">
+			Lixin Jin<br>
+			Unit 58, 2003 Rabbit Hill Road<br>
+			Edmonton, Alberta<br>
+			(587)335-3085<br>
+			jlx339@hotmail.com<br>
+		</p>
+		<div class="subtitle">Ability</div>
+		<p class="small">
+			Software Development<br>
+			Game Design<br>
+			Database Design<br>
+			Web Design<br>
+			User Interface<br>
+			3D Modeling<br>
+			Team Work<br>
+			Customer Service<br>
+			Sales<br>
+		</p>
+		<div class="subtitle">Language</div>
+		<p class="small">
+			Mandarin, English, Korean<br>
+		</p>
+		<div class="subtitle">Git Repo</div>
+		<p class="small">
+			jlx339: <a href="https://github.com/jlx339">	https://github.com/jlx339</a>	
+		</p>
+	</div>
+</body>
