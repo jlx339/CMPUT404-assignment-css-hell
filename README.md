@@ -23,6 +23,24 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Gutenberg Modifications
+=================
+The "gutenberg.css" will be used to template the 3 Gutenberg Projects from http://www.gutenberg.org/browse/scores/top.
+The 3 Gutenberg Projects are:
+
+How to Analyze People on Sight by Elsie Lincoln Benedict and Ralph Paine Benedict:
+http://www.gutenberg.org/files/30601/30601-h/30601-h.htm
+
+The Adventures of Sherlock Holmes by Arthur Conan Doyle:
+http://www.gutenberg.org/files/1661/1661-h/1661-h.htm
+
+Venus is a Man's World by William Tenn:
+http://www.gutenberg.org/files/51150/51150-h/51150-h.htm
+
+In "gutenberg.css", a background is made to all 3 Gutenberg projects, the background image is used from (http://img.sc.chinaz.com/upload/2014/07/03/2014070313455083.jpg). Also, font size, color and style have been changed 
+in order to make them more readable. As well as some small changes to format and layout in order to make aesthetically 
+pleasing to readers.
+
 Tool Used
 =================
 Web 2.0 Title Generator (Logo)
@@ -40,6 +58,5 @@ https://i.vimeocdn.com/video/553221112.jpg?mw=1920&mh=1080&q=70
 https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwfMFpI8jWePoD2mCXz6iJZD7wuNXEFZrdhwXgKDjzScakSXvl
 http://img13.deviantart.net/50ae/i/2002/1/f/2/ugly_pig_wallpaper.jpg
 http://wallpaperres.com/wp-content/uploads/Cute-Pig-Cartoon-07.jpg
+http://img.sc.chinaz.com/upload/2014/07/03/2014070313455083.jpg
 
-Part One Reference
-=================
