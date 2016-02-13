@@ -14,7 +14,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 License/Copyright
 =================
-License to the css and HTML has been extended by Lixin Jin C) 2016 
+License to the css and HTML has been extended by Lixin Jin (C) 2016 
 using the Apache License following the specifications of the assignment. Attribution should be a hyperlink to the repository and (C) 2013 Abram Hindle and (C) 2016 Lixin Jin visibile in the text.
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
